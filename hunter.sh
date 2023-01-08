@@ -72,7 +72,7 @@ echo '------------------------------------------------------------------------'
 echo " [+] Hunting subdomains with github-subdomains...."
 echo '------------------------------------------------------------------------'
 
-github-subdomains -d $url -t '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' | anew /bbh/$target/$url/recon/subs/$url-subs
+github-subdomains -d $url -t '<api key here>' | anew /bbh/$target/$url/recon/subs/$url-subs
 
 echo '------------------------------------------------------------------------'
 echo " [+] Testing subs with httprobe...."
