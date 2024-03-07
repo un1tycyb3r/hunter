@@ -13,10 +13,10 @@ The order of the scripts:
 7. alt.sh
 8. webservers.sh
 
-Running in order is very important as they produce data that feeds into the sequential scripts
+Run *** python3 recon.py *** and grab a cup of coffee
 
 
 # Coming soon
 
-1. Python wrapper script for recon execution
+1. Python wrapper script for recon execution -- Done
 2. spidering script for an initial spider of the webservers
