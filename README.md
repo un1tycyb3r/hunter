@@ -15,6 +15,8 @@ The order of the scripts:
 
 Run *** python3 recon.py *** and grab a cup of coffee
 
+Currently don't have a python wrapper for the webserver enumeration. Working on it.
+
 
 # Coming soon
 
