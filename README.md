@@ -14,3 +14,8 @@ The order of the scripts:
 8. webservers.sh
 
 Running in order is very important as they produce data that feeds into the sequential scripts
+
+
+# Coming soon
+
+1. spidering script for an initial spider of the webservers
