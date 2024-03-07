@@ -13,12 +13,10 @@ The order of the scripts:
 7. alt.sh
 8. webservers.sh
 
-Run ``` python3 recon.py ``` and grab a cup of coffee
-
-Currently don't have a python wrapper for the webserver enumeration. Working on it.
+Cronjob them in that order and just sift through the data
 
 
 # Coming soon
 
-1. Python wrapper script for recon execution -- Done
+1. Python wrapper script for recon execution
 2. spidering script for an initial spider of the webservers
