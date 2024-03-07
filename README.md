@@ -18,4 +18,5 @@ Running in order is very important as they produce data that feeds into the sequ
 
 # Coming soon
 
-1. spidering script for an initial spider of the webservers
+1. Python wrapper script for recon execution
+2. spidering script for an initial spider of the webservers
